@@ -5,6 +5,7 @@ print(type(numbers))
 print(numbers)
 print(numbers[2])
 print(numbers[-1])
+
 print(numbers[-3])
 
 #xoa trong list
