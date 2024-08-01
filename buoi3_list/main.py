@@ -22,6 +22,7 @@ print(numbers)
 #them mot so vao cuoi danh sach va in ra 
 numbers.append(100)
 print(numbers)
+
  
  #muon them vao cuoi khong phai la 1 gia tri ma 1 lisst khac
 numbers.extend([9,1000,22,5])

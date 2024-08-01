@@ -86,12 +86,12 @@
 
 # print("I am {} ".format(age))
 
-# s = 'heLLo hUy'
-# s = s.upper()
-# s = s.capitalize()
-# s = s.title()
-# new_string = s.split()
-# new_string = s.lower()
-# print(s)
-# print(new_string)
+s = 'heLLo hUy'
+s = s.upper()
+s = s.capitalize()
+s = s.title()
+new_string = s.split()
+new_string = s.lower()
+print(s)
+print(new_string)
 

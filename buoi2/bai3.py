@@ -11,3 +11,4 @@ print(3 and 4 or 0 )
 print('a' or '1')
 print(not None)
 print(not 0)
+
